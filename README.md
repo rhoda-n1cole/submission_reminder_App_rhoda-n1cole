@@ -111,18 +111,6 @@ Emmanuel Niyonzima,Not Submitted
 
 ---
 
-## Learning Outcomes
-
-This project helps users gain practical experience in:
-
-* Shell scripting (Bash)
-* Linux file and permission management
-* Script modularity and dynamic sourcing
-* Text parsing using standard Unix tools
-* Git branching workflow and project cleanup
-
----
-
 ## Git Workflow
 
 * **`feature/setup`**: All development and rough work (includes initial files and tests).
@@ -132,32 +120,12 @@ This project helps users gain practical experience in:
   * `copilot_shell_script.sh`
   * `README.md`
 
-Merge carefully and clean up extra files before final submission.
+Merge carefully and clean up extra files.
 
 ---
-
-## Submission Requirements
-
-Your final GitHub repository must only include:
-
-* `create_environment.sh`
-* `copilot_shell_script.sh`
-* `README.md`
-
-**Repository name format:**
-`submission_reminder_app_<YourGitHubUsername>`
-
----
-
 ## Author
 
 **Rhoda Nicole**
 GitHub: [rhoda-n1cole](https://github.com/rhoda-n1cole)
 
 ---
-
-## License
-
-This project is released for educational purposes and can be freely used and modified.
-
-```
