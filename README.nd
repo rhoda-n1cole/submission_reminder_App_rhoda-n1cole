@@ -24,16 +24,17 @@ Once `create_environment.sh` is run, the app creates this structure inside `subm
 
 ```
 
-submission\_reminder\_{YourName}/
+submission_reminder_App_rhoda-n1cole/
+├── app/ 
+│   └── reminder.sh
+├── assets/
+│   ├── submission.txt
 ├── config/
 │   └── config.env
-├── scripts/
-│   ├── functions.sh
-│   ├── reminder.sh
-│   └── startup.sh
-├── data/
-│   └── submissions.txt
-└── image.png
+├── modules/
+│   └── functions.sh
+└── README.md
+└── startup.sh
 
 ````
 
@@ -129,9 +130,3 @@ To update the assignment and re-check for submissions:
 * Developed a clean and modular Linux-based app.
 
 ---
-
-## License
-
-This project is for educational use as part of a lab assignment.
-
-```
